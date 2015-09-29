@@ -2,7 +2,7 @@
   "$schema": "http://schema.management.azure.com/schemas/2014-04-01-preview/VM.json",
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "location": { "type": "String", "defaultValue" : "West US", "allowedValues": [ "West US", "East US" ] },
+    "location": { "type": "String", "defaultValue" : "West US", "allowedValues": [ "West US", "East US", "North Europe" ] },
     "newStorageAccountName": { "type": "string" },
     "storageAccountType": { "type": "string", "defaultValue": "Standard_LRS", "allowedValues": [ "Standard_LRS", "Standard_GRS" ] },
     "publicIPAddressName": { "type": "string" },
