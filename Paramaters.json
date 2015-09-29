@@ -1,11 +1,11 @@
 ﻿{
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "vmName": { "value": "mytestvm1" },
-    "newStorageAccountName": { "value": "mytestsa1" },
+    "vmName": { "value": "ben2909vm1" },
+    "newStorageAccountName": { "value": "ben2909sa1" },
     "storageAccountType": { "value": "Standard_LRS" },
-    "publicIPaddressName": { "value": "mytestip1" },
-    "location": { "value": "West US" },
+    "publicIPaddressName": { "value": "ben2909ip1" },
+    "location": { "value": "North Europe" },
     "vmStorageAccountContainerName": { "value": "vhds" },
     "vmSize": { "value": "Standard_A1" },
     "subscriptionId": { "value": "55982d57-afd8-4478-b7b2-e31eda702354" },
@@ -13,7 +13,7 @@
     "adminUserName": { "value": "mytestacct1" },
     "adminPassword": { "value": "mytestpass1" },
     "virtualNetworkName": { "value": "mytestvn1" },
-    "dnsName": { "value": "mytestdns1" },
-    "nicName": { "value": "mytestnic1" }
+    "dnsName": { "value": "ben2909dns1" },
+    "nicName": { "value": "ben2909nic1" }
   }
 }
