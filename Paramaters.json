@@ -5,7 +5,7 @@
     "newStorageAccountName": { "value": "ben2909sa1" },
     "storageAccountType": { "value": "Standard_LRS" },
     "publicIPaddressName": { "value": "ben2909ip1" },
-    "location": { "value": "North Europe" },
+    "location": { "value": "West US" },
     "vmStorageAccountContainerName": { "value": "vhds" },
     "vmSize": { "value": "Standard_A1" },
     "subscriptionId": { "value": "55982d57-afd8-4478-b7b2-e31eda702354" },
