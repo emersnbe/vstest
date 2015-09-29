@@ -1,5 +1,5 @@
 ﻿{
-  "$schema": "http://schema.management.azure.com/schemas/2015-06-15/VM.json",
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/VM.json",
   "contentVersion": "1.0.0.0",
   "parameters": {
     "location": { "type": "String", "defaultValue" : "westus", "allowedValues": [ "westus", "East US", "North Europe" ] },
