@@ -9,10 +9,10 @@
     "vmStorageAccountContainerName": { "value": "vhds" },
     "vmSize": { "value": "Standard_A1" },
     "subscriptionId": { "value": "55982d57-afd8-4478-b7b2-e31eda702354" },
-    "vmSourceImageName": { "value": "a699494373c04fc0bc8f2bb1389d6106__Windows-Server-2012-R2-20150825-en.us-127GB.vhd" },
+    "vmSourceImageName": { "value": "a699494373c04fc0bc8f2bb1389d6106__Windows-Server-2012-R2-20150916-en.us-127GB.vhd" },
     "adminUserName": { "value": "mytestacct1" },
     "adminPassword": { "value": "mytestpass1" },
-    "virtualNetworkName": { "value": "mytestvn1" },
+    "virtualNetworkName": { "value": "ben2909vn1" },
     "dnsName": { "value": "ben2909dns1" },
     "nicName": { "value": "ben2909nic1" }
   }
